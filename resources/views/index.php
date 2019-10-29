@@ -26,7 +26,7 @@
   </head>
   <body>
       <section id="r-customizer" class="r-customizer">
-            <div class="r-selector"> 
+            <div class="r-selector">
                   <span class="d-block text-center">Color Options</span>
                   <div class="r-color_section r-color_block">
                         <ul class="r-color_selector" id="r-color_selector">
@@ -39,7 +39,7 @@
                             <li class="r-color_7" data-attr="color-07"></li>
                             <li class="r-color_8" data-attr="color-08"></li>
                         </ul>
-                  </div>  
+                  </div>
             </div>
             <i id="r-selector_icon" class="fa fa-cog"></i>
       </section>
@@ -51,11 +51,11 @@
                 <div class="row clearfix">
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
                     <div class="r-logo">
-                      <a href="/" class="d-inline-block"><img src="assets/images/logo.png" class="img-fluid d-block" alt=""></a>
+                      <a href="/" class="d-inline-block"><img src="assets/images/logo_large.png" class="img-fluid d-block" alt=""></a>
                     </div>
                     <a href="javaScript:void(0)" class="menu-icon"> <i class="fa fa-bars"></i> </a>
                   </div>
-                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12"> 
+                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
                     <div class="r-header-action float-right">
                       <a href="login"> <img src="assets/images/icon-lock.png" alt='' /> <span>Login</span></a>
                       <a href="#" class="r-search"> <img src="assets/images/icon-search.png" alt='' /> <span>Search</span></a>
@@ -103,32 +103,32 @@
               </div>
             </div>
             <div class="r-slider owl-carousel" id="defaultHomeSlider">
-              <div class="r-slider-item">
-                <img src="assets/images/main-slider-01.jpg" class="img-fluid d-block m-auto" alt="">
+              <div class="r-slider-item" style="width: 100%; height: 900px;">
+                <img src="assets/images/blue-boats-daylight-358326.jpg" class="img-fluid d-block m-auto" alt="">>
                 <div class="container">
                   <div class="r-slider-top-content">
-                    <h1 class="animated fadeInDown">Kia Rio <span>z</span></h1>
-                    <h4 class="animated fadeInLeft">FOR RENT <strong>$50</strong> PER DAY</h4>
+                    <h1 class="animated fadeInDown">Zeiljacht <span>klein</span></h1>
+                    <h4 class="animated fadeInLeft">TE HUUR <strong>€50</strong> PER DAG</h4>
                     <a href="#" class="btn btn-outlined animated fadeInUp"> Reserve Now </a>
                   </div>
-                </div> 
+                </div>
               </div>
-              <div class="r-slider-item">
-                <img src="assets/images/main-slider-04.jpg" class="img-fluid d-block m-auto" alt="">
+              <div class="r-slider-item" style="width: 100%; height: 900px;">
+                <img src="assets/images/beautiful-bikini-blond-762103.jpg" class="img-fluid d-block m-auto" alt="">>
                 <div class="container">
                   <div class="r-slider-top-content">
-                    <h1>BMW <span>3</span></h1>
-                    <h4>FOR RENT <strong>$150</strong> PER DAY</h4>
+                    <h1>Motorboot <span>groot</span></h1>
+                    <h4>TE HUUR <strong>€150</strong> PER DAG</h4>
                     <a href="#" class="btn btn-outlined"> Reserve Now </a>
                   </div>
                 </div>
               </div>
-              <div class="r-slider-item">
-                <img src="assets/images/main-slider-05.jpg" class="img-fluid d-block m-auto" alt="">
+              <div class="r-slider-item" style="width: 100%; height: 900px;">
+                <img src="assets/images/backlit-boat-dawn-769228.jpg" class="img-fluid d-block m-auto" alt="">
                 <div class="container">
                   <div class="r-slider-top-content">
-                    <h1>Audi <span>A4</span></h1>
-                    <h4>FOR RENT <strong>$100</strong> PER DAY</h4>
+                    <h1>Zeiljacht <span>groot</span></h1>
+                    <h4>TE HUUR <strong>€100</strong> PER DAG</h4>
                     <a href="#" class="btn btn-outlined"> Reserve Now </a>
                   </div>
                 </div>
@@ -331,7 +331,7 @@
             <div class="r-car-search r-search-map-over">
               <div class="container">
                 <div class="r-search-map-over-in">
-                  <div class="r-top-form-title"> 
+                  <div class="r-top-form-title">
                     <h3>Find Car on Map</h3>
                   </div>
                   <form>
@@ -516,8 +516,8 @@
             </div>
           </div>
         </section>
-        
-        <section id="r-drivers"> 
+
+        <section id="r-drivers">
           <div class="r-driver-blog-dark">
             <div class="r-sub-banners clearfix">
               <div class="r-sub-banner-in r-sub-dark">
@@ -609,7 +609,7 @@
                       <li data-tab="04"><span>Toyota</span></li>
                       <li data-tab="05"><span>Volkswagen</span></li>
                       <li data-tab="06"><span>Audi</span></li>
-                      <li data-tab="07"><span>Ferrari</span></li> 
+                      <li data-tab="07"><span>Ferrari</span></li>
                     </ul>
                   </div>
                 </div>
@@ -780,7 +780,7 @@
                               </ul>
                             </div>
                           </div>
-                        </div> 
+                        </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
                           <div class="r-best-vehicle-single">
                             <a href="javaScript:void(0)" class="d-block m-auto img-fluid">
@@ -1276,7 +1276,7 @@
                               </ul>
                             </div>
                           </div>
-                        </div> 
+                        </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
                           <div class="r-best-vehicle-single">
                             <a href="javaScript:void(0)" class="d-block m-auto img-fluid">
@@ -1570,10 +1570,10 @@
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="faq-02-tab" data-toggle="tab" href="#faq-02" role="tab" aria-controls="faq-02" aria-selected="false"><i class="fa fa-question-circle"></i>Technical support</a>
-                        </li> 
+                        </li>
                         <li class="nav-item">
                           <a class="nav-link" id="faq-03-tab" data-toggle="tab" href="#faq-03" role="tab" aria-controls="faq-03" aria-selected="false"><i class="fa fa-car"></i>Cars Features</a>
-                        </li>  
+                        </li>
                       </ul>
                     </div>
                 </div>
@@ -1665,7 +1665,7 @@
                     </div>
                   </div>
                   <div class="tab-pane fade" id="faq-02" role="tabpanel" aria-labelledby="faq-02-tab">
-                    <div class="row r-faq-accordion-wrapper"> 
+                    <div class="row r-faq-accordion-wrapper">
                       <div class="col-lg-6 col-md-12">
                         <div class="r-accordion">
                          <div class="r-accordion-heading">
@@ -1752,7 +1752,7 @@
                   </div>
                   <div class="tab-pane fade" id="faq-03" role="tabpanel" aria-labelledby="faq-03-tab">
                     <div class="row r-faq-accordion-wrapper">
-                      <div class="col-lg-6 col-md-12"> 
+                      <div class="col-lg-6 col-md-12">
                         <div class="r-accordion">
                           <div class="r-accordion-heading">
                             <span class="r-accordion-toggle">
@@ -1836,7 +1836,7 @@
                       </div>
                     </div>
                   </div>
-                </div>    
+                </div>
                 <div class="row">
                   <div class="col-md-12 text-center">
                     <a href="#" class="btn-primary icon-btn"> <i class="fa fa-question-circle icon"></i> MAKE A QUESTIONS </a>
@@ -1919,7 +1919,7 @@
                     <a href="#" class="r-read-more">READ ARTICLE</a>
                   </div>
                 </div>
-              
+
                 <div class="r-latest-news-single">
                   <a href="#" class="d-inline-block"><img src="assets/images/latest-news-02.jpg" class="img-fluid d-block m-auto" alt=""></a>
                   <div class="r-latest-news-content">
@@ -1928,7 +1928,7 @@
                     <a href="#" class="r-read-more">READ ARTICLE</a>
                   </div>
                 </div>
-              
+
                 <div class="r-latest-news-single">
                   <a href="#" class="d-inline-block"><img src="assets/images/latest-news-03.jpg" class="img-fluid d-block m-auto" alt=""></a>
                   <div class="r-latest-news-content">
@@ -2096,7 +2096,7 @@
         </footer>
       </div>
       <div id="r-to-top" class="r-to-top"><i class="fa fa-angle-up"></i></div>
-      
+
       <!-- JQUERY:: JQUERY.JS -->
       <script src="assets/js/jquery.min.js"></script>
 

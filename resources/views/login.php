@@ -21,9 +21,9 @@
       <link rel="stylesheet" type="text/css" id="r-color-roller" href="assets/color-files/color-08.css">
 
   </head>
-  <body> 
+  <body>
        <section id="r-customizer" class="r-customizer">
-            <div class="r-selector"> 
+            <div class="r-selector">
                   <span class="d-block text-center">Color Options</span>
                   <div class="r-color_section r-color_block">
                         <ul class="r-color_selector" id="r-color_selector">
@@ -36,7 +36,7 @@
                             <li class="r-color_7" data-attr="color-07"></li>
                             <li class="r-color_8" data-attr="color-08"></li>
                         </ul>
-                  </div>  
+                  </div>
             </div>
             <i id="r-selector_icon" class="fa fa-cog"></i>
       </section>
@@ -48,11 +48,11 @@
                 <div class="row clearfix">
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
                     <div class="r-logo">
-                      <a href="/" class="d-inline-block"><img src="assets/images/logo.png" class="img-fluid d-block" alt=""></a>
+                      <a href="/" class="d-inline-block"><img src="assets/images/logo_large.png" class="img-fluid d-block" alt=""></a>
                     </div>
                     <a href="javaScript:void(0)" class="menu-icon"> <i class="fa fa-bars"></i> </a>
                   </div>
-                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12"> 
+                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
                     <div class="r-header-action float-right">
                       <a href="login"> <img src="assets/images/icon-lock.png" alt='' /> <span>Login</span></a>
                       <a href="#" class="r-search"> <img src="assets/images/icon-search.png" alt='' /> <span>Search</span></a>
