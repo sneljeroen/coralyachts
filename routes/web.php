@@ -27,10 +27,6 @@ Route::get('faq', function () {
     return view('faq');
 });
 
-Route::get('login', function () {
-    return view('login');
-});
-
 Route::get('booking', function () {
     return view('booking');
 });
@@ -47,6 +43,6 @@ Route::get('purchases', function () {
     return view('purchases');
 });
 
-Route::group(['prefix' => 'admin'], function () {
+Route::group(['prefix' => 'yachts'], function () {
     Voyager::routes();
 });
